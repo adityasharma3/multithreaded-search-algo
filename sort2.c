@@ -172,3 +172,5 @@ void merge(int arr[], int left, int middle, int right) {
         j ++;
     }
 }
+
+// committed by onwOUSGUSGD SIHDL
